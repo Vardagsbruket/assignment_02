@@ -21,14 +21,23 @@ h2 {
 h3 {
     color: #862B0D;
     background-color: #FFC95F;
-    font-weight: 500;
+    font-weight: 600;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
 h4 {
     color: #862B0D;
     font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
+h5 {
+    color: #862B0D;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 18px;
 }
 p {
     color: #862B0D;
@@ -52,6 +61,13 @@ a {
     justify-content: center;
     gap: 5px;
 }
+.parent2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: baseline;
+    justify-content: center;
+    gap: 5px;
+}
 .nav {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -59,14 +75,14 @@ a {
     justify-content: center;
     gap: 5px;
 }
+
 #home-info {
     border: 2px solid #FFC95F;
     padding: 10px;
     margin: 10px;
-    height:350px;
+    min-height:350px;
 }
 #home-pic {
-    border: 2px solid #FFC95F;
     padding: 10px;
-    margin: 5px;
+    margin: 10px;
 }
