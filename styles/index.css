@@ -26,9 +26,18 @@ h3 {
     padding-bottom: 10px;
     text-align: center;
 }
+h4 {
+    color: #862B0D;
+    font-weight: 500;
+}
 p {
     color: #862B0D;
     font-family: 'Courier New', Courier, monospace;
+}
+article {
+    color: #862B0D;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
 }
 a {
     color: #862B0D;
