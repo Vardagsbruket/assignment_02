@@ -59,3 +59,14 @@ a {
     justify-content: center;
     gap: 5px;
 }
+#home-info {
+    border: 2px solid #FFC95F;
+    padding: 10px;
+    margin: 10px;
+    height:350px;
+}
+#home-pic {
+    border: 2px solid #FFC95F;
+    padding: 10px;
+    margin: 5px;
+}
