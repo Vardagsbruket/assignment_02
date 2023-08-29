@@ -5,10 +5,14 @@ header {
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: center;
+    font-weight: 500;
     
 }
 body {
     background-color: #FFF9C9;
+    color: #862B0D;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
 }
 h1 {
     font-weight: 500;
@@ -19,33 +23,21 @@ h2 {
     font-size: 30px;
 }
 h3 {
-    color: #862B0D;
     background-color: #FFC95F;
     font-weight: 600;
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
 }
 h4 {
-    color: #862B0D;
     font-weight: 500;
-    font-family: 'Courier New', Courier, monospace;
 }
 h5 {
-    color: #862B0D;
     font-weight: 500;
-    font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 18px;
 }
-p {
-    color: #862B0D;
-    font-family: 'Courier New', Courier, monospace;
-}
 article {
-    color: #862B0D;
-    font-family: 'Courier New', Courier, monospace;
     font-style: italic;
     border: 2px solid #FFC95F;
     padding: 10px;
