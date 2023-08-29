@@ -74,6 +74,13 @@ a {
     align-items: center;
     justify-content: center;
     gap: 5px;
+    list-style: none;
+}
+.nav a:hover {
+    background-color:#862B0D;
+    color: #FFC95F;
+    padding: 4px;
+    border-radius: 5px;
 }
 
 #home-info {
